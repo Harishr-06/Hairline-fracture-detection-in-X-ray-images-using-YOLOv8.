@@ -56,7 +56,7 @@ Installation
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Hairline-Fracture-Detection.git
+git clone https://github.com/Harishr-06/Hairline-Fracture-Detection.git
 ```
 
 Navigate to the project directory:
